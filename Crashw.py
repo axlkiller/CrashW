@@ -7,10 +7,9 @@ R = Fore.RED
 B = Fore.BLUE
 G = Fore.GREEN
 C = Fore.CYAN
-Y  = Fore.YELLOW
+L  = Fore.LIME
 M = Fore.MAGENTA
 W = Fore.WHITE
-L = Fore.LIME
 try:
 	import colorama
 except ModuleNotFoundError:
