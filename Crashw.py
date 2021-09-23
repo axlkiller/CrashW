@@ -10,6 +10,7 @@ C = Fore.CYAN
 Y  = Fore.YELLOW
 M = Fore.MAGENTA
 W = Fore.WHITE
+L = Fore.LIME
 try:
 	import colorama
 except ModuleNotFoundError:
@@ -17,14 +18,14 @@ except ModuleNotFoundError:
 	os.system("pip install colorama")
 
 logo = f"""
-{R}______                            __        ____      ____ 
+{L}______                            __        ____      ____ 
  .' ___  |                          [  |      |_  _|    |_  _|
 / .'   \_|  _ .--.   ,--.    .--.    | |--.     \ \  /\  / /  
 | |        [ `/'`\] `'_\ :  ( (`\]   | .-. |     \ \/  \/ /   
 \ `.___.'\  | |     // | |,  `'.'.   | | | |      \  /\  /    
  `.____ .' [___]    \'-;__/ [\__) ) [___]|__]      \/  \/     
-{G}█▀▀ █▀█ ▄▀█ █▀ █░█ █▀▀ █▀█ {C}Coded By Team AxL
-{G}█▄▄ █▀▄ █▀█ ▄█ █▀█ ██▄ █▀▄ {C}Crash Txt by Killer 
+{R}█▀▀ █▀█ ▄▀█ █▀ █░█ █▀▀ █▀█ {B}Coded By Team AxL
+{M}█▄▄ █▀▄ █▀█ ▄█ █▀█ ██▄ █▀▄ {B}Crash Txt by @Killer 
 """
 os.system('clear')
 def main():
