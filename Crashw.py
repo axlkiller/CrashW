@@ -7,7 +7,7 @@ R = Fore.RED
 B = Fore.BLUE
 G = Fore.GREEN
 C = Fore.CYAN
-L  = Fore.LIME
+Y = Fore.YELLOW
 M = Fore.MAGENTA
 W = Fore.WHITE
 try:
@@ -17,7 +17,7 @@ except ModuleNotFoundError:
 	os.system("pip install colorama")
 
 logo = f"""
-{L}______                            __        ____      ____ 
+{G}______                            __        ____      ____ 
  .' ___  |                          [  |      |_  _|    |_  _|
 / .'   \_|  _ .--.   ,--.    .--.    | |--.     \ \  /\  / /  
 | |        [ `/'`\] `'_\ :  ( (`\]   | .-. |     \ \/  \/ /   
