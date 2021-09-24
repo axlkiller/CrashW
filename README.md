@@ -16,7 +16,7 @@
 
 
 
-### Installing,
+## Installing,
 
 ```
 apt update && apt upgrade -y
@@ -38,14 +38,13 @@ chmod +x Crashw.py
 ```
 
 
-### Run,
+## Run,
 
 ```
 python3 Crashw.py
 ```
 
-### m
-  MgScreenshots,
+## Screenshots,
 
 
 ![logo](https://github.com/axlkiller/CrashW/raw/main/.imgs/20210924_182617.gif)
