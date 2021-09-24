@@ -7,7 +7,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-0.5-lime?style=for-the-badge">
-  <img src="https://img.shields.io/github/license/axlkiller/CrashW?&style=for-the-badge">
+  
   <img src="https://img.shields.io/github/stars/axlkiller/CrashW?color=cyan&style=for-the-badge">
   <img src="https://img.shields.io/github/issues/axlkiller/CrashW?color=magenta&style=for-the-badge">
   <img src="https://img.shields.io/github/forks/axlkiller/CrashW?color=aquamarine&style=for-the-badge"><br/>
