@@ -3,7 +3,7 @@
 ## A WhatsApp Crashing Tool For Termux Users
 
 
-
+![logo](https://github.com/axlkiller/CrashW/raw/main/.imgs/20210924_150712.jpg)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0.5-lime?style=for-the-badge">
