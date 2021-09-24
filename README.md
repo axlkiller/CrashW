@@ -1,6 +1,6 @@
 # CrashW
 
-### A WhatsApp Crashing Tool For Termux Users
+## A WhatsApp Crashing Tool For Termux Users
 
 
 
