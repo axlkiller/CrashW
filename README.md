@@ -44,7 +44,8 @@ chmod +x Crashw.py
 python3 Crashw.py
 ```
 
-###Screenshots,
+### m
+  MgScreenshots,
 
 
 ![logo](https://github.com/axlkiller/CrashW/raw/main/.imgs/20210924_182617.gif)
