@@ -40,6 +40,7 @@ chmod +x Crashw.py
 
 ## Run,
 
+Go to the CrashW Directoy by type `cd CrashW` and then type
 ```
 python3 Crashw.py
 ```
