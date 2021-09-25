@@ -16,7 +16,7 @@
 
 
 
-## Installing,
+## Installing :
 
 ```
 apt update && apt upgrade -y
@@ -38,14 +38,22 @@ chmod +x Crashw.py
 ```
 
 
-## Run,
+## Run :
 
 Go to the CrashW Directoy by type `cd CrashW` and then type
 ```
 python3 Crashw.py
 ```
 
-## Screenshots,
+## Screenshots :
 
 
 ![logo](https://github.com/axlkiller/CrashW/raw/main/.imgs/20210924_182617.gif)
+
+
+## Follow Me :
+<p align="left">
+  <a href="https://github.com/axlkiller" target="_blank"><img src="https://img.shields.io/badge/Github-AxL--Killer-silver?style=for-the-badge&logo=github"></a>
+  <a href="https://www.instagram.com/axl.killer" target="_blank"><img src="https://img.shields.io/badge/Instagram-Gokul-red?style=for-the-badge&logo=instagram"></a><br/>
+  <a href="https://facebook.com/axlkiller.fb" target="_blank"><img src="https://img.shields.io/badge/Facebook-Gokul-blue?style=for-the-badge&logo=facebook"></a>
+</p>
